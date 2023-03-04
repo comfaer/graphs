@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/comfaer/graphs.git/static/css/main.2adafef9.css",
+    "main.js": "/comfaer/graphs.git/static/js/main.e8d7c808.js",
+    "static/js/787.47157064.chunk.js": "/comfaer/graphs.git/static/js/787.47157064.chunk.js",
+    "index.html": "/comfaer/graphs.git/index.html",
+    "main.2adafef9.css.map": "/comfaer/graphs.git/static/css/main.2adafef9.css.map",
+    "main.e8d7c808.js.map": "/comfaer/graphs.git/static/js/main.e8d7c808.js.map",
+    "787.47157064.chunk.js.map": "/comfaer/graphs.git/static/js/787.47157064.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2adafef9.css",
+    "static/js/main.e8d7c808.js"
+  ]
+}
